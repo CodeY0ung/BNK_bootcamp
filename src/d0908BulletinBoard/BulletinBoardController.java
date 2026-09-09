@@ -147,7 +147,7 @@ public class BulletinBoardController {
 				while(tf) {
 					System.out.println("환영합니다 회원님.\n"
 							+ "다음 중 하나를 입력해주세요\n"
-							+ "글 조회 : 1\n"
+							+ "나의 게시글 조회 : 1\n"
 							+ "글 작성 : 2\n"
 							+ "글 수정 : 3\n"
 							+ "글 삭제 : 4\n"

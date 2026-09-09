@@ -32,7 +32,5 @@ public class BulletinBoardTest {
 		
 		BulletinBoardController bbc = new BulletinBoardController(ms, pr); 
 		bbc.Start();
-
 	}
-
 }
