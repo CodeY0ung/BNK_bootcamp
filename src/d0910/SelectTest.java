@@ -33,7 +33,7 @@ public class SelectTest {
 			Statement stmt = conn.createStatement();
 			
 			//쿼리문 준비
-			String query = "SELECT * FROM test02";
+			String query = "SELECT * FROM test02 ORDER BY no DESC";
 			
 			//쿼리 실행
 			// ResultSet은 Select에서만 사용
