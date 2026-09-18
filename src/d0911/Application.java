@@ -9,7 +9,6 @@ public class Application {
 		Update.updateMemoByPhoneNum("010-3333-3333", "just friend");
 		Insert.add("010-0000-0000", "zeroMan", null);
 		Select.findAll();
-		
 		Select.findByPhoneNum("010-0000-0000");
 		Select.findByIncludedName("woman_");
 	}
